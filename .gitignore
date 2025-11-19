@@ -1,0 +1,8 @@
+﻿backend/venv/
+backend/__pycache__/
+backend/.cache/
+frontend/node_modules/
+__pycache__/
+.env
+.DS_Store
+Thumbs.db
