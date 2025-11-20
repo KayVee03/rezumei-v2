@@ -1,6 +1,5 @@
 # ✦ Rezumei
 
-**Live Demo** → (will be added after deployment)  
 AI-Powered Resume Reviewer & ATS Optimizer
 
 Instantly analyzes PDF resumes using NLP and Hugging Face models.
